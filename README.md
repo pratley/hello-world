@@ -1,2 +1,2 @@
 # hello-world
-First foray
+Hello people! First foray... but not the last. 
